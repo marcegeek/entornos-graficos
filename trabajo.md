@@ -12,10 +12,10 @@ alquiler de vehículos en la ciudad de Rosario. La misma desea tener presencia e
 de permitir a los clientes realizar reservas de vehículos on-line.
 ### Defición del sitio web
   1. Objetivos del sitio:
-    * Registrar reservas de vehículos por parte de los usuarios registrados.
-    * Permitir que los usuarios no registrados puedan ver las categorías de vehículos disponibles.
-    * Permitir a los usuarios no registrados iniciar una reserva, y poder confirmarla luego de registrarse.
-    * Permitir a los administradores gestionar usuarios, vehículos y categorías.
+      * Registrar reservas de vehículos por parte de los usuarios registrados.
+      * Permitir que los usuarios no registrados puedan ver las categorías de vehículos disponibles.
+      * Permitir a los usuarios no registrados iniciar una reserva, y poder confirmarla luego de registrarse.
+      * Permitir a los administradores gestionar usuarios, vehículos y categorías.
   1. Descripción del sitio
 
 ### Definición de la audiencia
