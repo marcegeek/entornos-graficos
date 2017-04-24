@@ -1,13 +1,22 @@
-# Trabajo práctico de entornos gráficos
-## Integrantes
+# Trabajo práctico de Entornos Gráficos
+## Alumno
+{student-data}
 ## Índice
+  <!-- TODO fill the index  -->
   1. Elemento
 
 ## Informe
 ### Introducción
+La organización bajo estudio se trata de una empresa que brinda un servicio de
+alquiler de vehículos en la ciudad de Rosario. La misma desea tener presencia en Internet de manera
+de permitir a los clientes realizar reservas de vehículos on-line.
 ### Defición del sitio web
- 1. Objetivos del sitio
- 1. Descripción del sitio
+  1. Objetivos del sitio:
+    * Registrar reservas de vehículos por parte de los usuarios registrados.
+    * Permitir que los usuarios no registrados puedan ver las categorías de vehículos disponibles.
+    * Permitir a los usuarios no registrados iniciar una reserva, y poder confirmarla luego de registrarse.
+    * Permitir a los administradores gestionar usuarios, vehículos y categorías.
+  1. Descripción del sitio
 
 ### Definición de la audiencia
 ### Definición de los contenidos del sitio
