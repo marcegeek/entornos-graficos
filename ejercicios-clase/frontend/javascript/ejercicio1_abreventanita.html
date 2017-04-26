@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Abre ventanita</title>
+    <script> //texto del mensaje var texto_estado = " Bienvenidos!!!" var posicion = 0 //funcion para mover el texto de la barra de estado function mueve_texto(){ if (posicion < texto_estado.length) posicion ++; else posicion = 1; string_actual = texto_estado.substring(posicion) + texto_estado.substring(0,posicion) window.status = string_actual setTimeout("mueve_texto()",50) } mueve_texto() </script>
+    <script> //texto del mensaje
+      var texto_estado = " Bienvenidos!!!";
+      var posicion = 0;
+      //funcion para mover el texto de la barra de estado
+      function mueve_texto() {
+        if (posicion < texto_estado.length)
+           posicion++;
+        else
+            posicion = 1;
+        string_actual = texto_estado.substring(posicion) + texto_estado.substring(0,posicion);
+        window.status = string_actual;
+        setTimeout("mueve_texto()",150);
+      }
+      mueve_texto();
+    </script>
+  </head>
+  <body>
+    <input type="button" name="btnAbreVentana" value="Abre ventana" onclick="abreVentanita('http://www.google.com');">
+    <input type="button" name="btnMsg" value="Muestra mensaje" onclick="muestraMensaje('Hola, este es mi mensaje...')">
+    <input type="button" name="btnFecha" value="Muestra fecha" onclick="document.write(new Date());">
+    <input type="button" name="btnAtras" value=Atrás onclick="history.go(-1)">
+    <div>
+      <a href="javascript:ventanaSecundaria('http://www.frro.utn.edu.ar')"> Clic aquí para abrir ventana secundaria</a>
+      <input type="button" name="btnCerrar" value="Cerrar ventana" onclick="cerrarse()">
+    </div>
+    <!-- scripts al final para una carga más rápida del DOM -->
+    <script type="text/javascript">
+      function abreVentanita(url) {
+        window.open(url,"","width=550,height=420,menubar=no");
+      }
+      function muestraMensaje(msg) {
+        window.alert(msg);
+      }
+      function ventanaSecundaria (url) {
+        window.open(url,"ventana1","width=120,height=300,scrollbars=NO");
+      }
+      function cerrarse() {
+        window.close();
+      }
+    </script>
+  </body>
+</html>

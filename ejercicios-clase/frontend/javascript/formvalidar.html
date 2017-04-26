@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Validar el formulario</title>
+  </head>
+  <body>
+    <form name="form" class="" action="" method="post">
+      Nombre<input type="text" name="firstname"><br>
+      Apellido<input type="text" name="lastname"><br>
+      E-mail<input type="text" name="email" value=""><br>
+      <select name="gender">
+        <optgroup label="Genero">
+          <option onemptied="">Seleccione el genero</option>
+          <option value="male">Varon</option>
+          <option value="female">Mujer</option>
+        </optgroup>
+      </select><br>
+      <input type="button" name="" value="" onclick="alert(document.form.firstname);">
+      <input type="submit" value="Enviar"><br>
+      <input type="reset" value="Reset"><br>
+    </form>
+
+    <script type="text/javascript">
+      function validarFormulario() {
+        return document.form.firstname.value !=== "" && document.form.lastname.value !=== "" document.form.gender.value !=== null;
+      }
+    </script>
+  </body>
+</html>
