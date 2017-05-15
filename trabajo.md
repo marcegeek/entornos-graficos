@@ -1,4 +1,4 @@
-# Trabajo práctico de Entornos Gráficos
+# Trabajo Práctico de Entornos Gráficos
 ## Alumno
 {student-data}
 ## Índice
