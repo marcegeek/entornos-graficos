@@ -1,9 +1,8 @@
-# Trabajo práctico de Entornos Gráficos
+# Trabajo Práctico de Entornos Gráficos
 ## Alumno
 {student-data}
 ## Índice
-  <!-- TODO fill the index  -->
-  1. Elemento
+{generated-index}
 
 ## Informe
 ### Introducción
