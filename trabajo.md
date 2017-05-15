@@ -2,8 +2,7 @@
 ## Alumno
 {student-data}
 ## Índice
-  <!-- TODO fill the index  -->
-  1. Elemento
+{generated-index}
 
 ## Informe
 ### Introducción
