@@ -8,7 +8,7 @@
 ### Introducción
 La organización bajo estudio se trata de una empresa que brinda un servicio de
 alquiler de vehículos en la ciudad de Rosario. La misma desea tener presencia en Internet, permitiendo a los clientes realizar reservas de vehículos on-line.
-### Defición del sitio web
+### Definición del sitio web
   1. Objetivos del sitio:
       * Registrar reservas de vehículos por parte de los usuarios registrados.
       * Permitir que los usuarios no registrados puedan ver las categorías de vehículos disponibles.
