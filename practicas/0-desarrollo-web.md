@@ -12,4 +12,4 @@
      * Definición del Diseño Visual
 2. ¿Cuál es la ventaja de tener identificados y definidos los objetivos del sitio?
 
-   La ventaja es que de esta manera todo el equipo puede tienr claro el horizonte que debe tener el proyecto. También, se puede establecer un orden de prioridades, que permita atender los objetivos más críticos primero. Además, se puede lograr que los mismos estén en concordancia con las necesidades y planes de la organización. De los objetivos se pueden desprender tareas concretas que permitan avanzar en el cumplimiento de los mismos.
+   La ventaja es que al tener identificados y definidos los objetivos del sitio, el equipo tendrá claro el horizonte que debe tener el proyecto. También, se puede establecer un orden de prioridades, que permita atender los objetivos más críticos primero. Además, se puede lograr que los mismos estén en concordancia con las necesidades y planes de la organización. Finalmente, de éstos se pueden desprender tareas concretas que permitan avanzar en el cumplimiento de los mismos.
