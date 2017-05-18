@@ -1,5 +1,6 @@
 # Práctica 0 - Desarrollo Web
 
+## Guía web V1.0 – Cap. 2 y 4
 1. ¿A qué nos referimos al hablar de Arquitectura de la Información y cuáles son los ítems principales que constituyen su metodología?
 
    Al hablar de arquitectura de la información nos referimos al conjunto de métodos y herramientas que permiten organizar los contenidos, para ser encontrados y utilizados por los usuarios, de manera simple y directa. De esta manera los usuarios pueden reconocer fácilmente a quién pertenece el sitio web; lo pueden entender en forma rápida y sin esfuerzo y encontrar la información ofrecida fácilmente. Adicionalmente eso entregará el beneficio de que quienes producen el sitio podrán ubicar la nueva información sin tener que crear nuevas estructuras y al mismo tiempo tendrán la libertad de incorporar nuevas iniciativas al sitio sin tener que partir de cero.
@@ -37,3 +38,26 @@
    En este sentido, la expresión «Estudiar escenarios de uso», busca determinar situaciones de uso reales en el sitio web, basado en usuarios existentes que puedan llegar al sitio a buscar determinados tipos de información.
 
    Al llegar a casos reales de uso del sitio, basado en las audiencias que se haya definido, es posible establecer con mucha mayor exactitud cómo esas personas (es decir casos reales) van a usar el sitio. Naturalmente, este tipo de revisiones permiten ratificar o modificar lo que se haya definido previamente como contenido del sitio, debido a que muchas veces la planificación inicial es hecha por personas que conocen la organización y dan por obvios muchos de los contenidos que para los usuarios normales no lo son tanto.
+6. ¿Cuáles deberían ser los contenidos indispensables de un sitio web?
+
+   Los contenidos indispensables de un sitio web deberían ser:
+   * **Acerca de la Organización:** entregar la información completa referida a autoridades, organigrama, normativa legal asociada, oficinas, horas de atención, teléfonos, etc.
+   * **Productos / Servicios:** destacar las actividades principales que el usuario puede hacer en la organización; puede incluir una guía de trámites que facilite las acciones de las personas que acudirán a la organización y que considere servicios interactivos para hacerlos desde el sitio web.
+   * **Novedades de la Organización:** últimas actividades, noticias, etc.
+7. ¿Cuáles son los requerimientos funcionales más frecuentes en un sitio web?
+8. ¿Al definir la estructura de un sitio, ¿cuáles son los dos aspectos fundamentales que se deben considerar?
+9. ¿Cuál es la diferencia entre estructura y diseño de un sitio web?
+10. ¿Cuáles son las características que debe tener el sistema de navegación? Explicar c/u.
+11. ¿Cuáles son los elementos más importantes de un sistema de navegación?
+12. ¿Cuáles son las cuatro etapas sucesivas que se deben realizar para definir el diseño visual de un sitio web y en qué consiste cada una?
+13. ¿Cuáles son los sistemas que puede utilizar un sitio web para recibir feedback o retroalimentación de parte del usuario?
+14. ¿En qué consiste la Prueba de verificación de Contenidos?
+15. ¿En qué consiste la Prueba de Verificaciones de Interfaces?
+16. ¿Cuáles son los chequeos más importantes que se deben realizar respecto de las
+funcionalidades y aplicaciones que ofrece el sitio?
+
+## Guía web V2.0 – Cap. 3
+1. ¿Qué es una interfaz y cuáles son sus elementos fundamentales?
+2. ¿Qué es un sistema de navegación y cuáles deben ser sus elementos indispensables?
+3. ¿Qué es Flash y qué problemas puede acarrear su uso?
+4. ¿Qué es AJAX y qué problemas puede acarrear su uso?
