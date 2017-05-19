@@ -45,10 +45,48 @@
    * **Productos / Servicios:** destacar las actividades principales que el usuario puede hacer en la organización; puede incluir una guía de trámites que facilite las acciones de las personas que acudirán a la organización y que considere servicios interactivos para hacerlos desde el sitio web.
    * **Novedades de la Organización:** últimas actividades, noticias, etc.
 7. ¿Cuáles son los requerimientos funcionales más frecuentes en un sitio web?
+
+   Los requerimientos funcionales más frecuentes son:
+
+   * Dentro de los servicios interactivos más frecuentes se cuentan los siguientes:
+     * Formulario de contacto para envío de mensajes electrónicos
+     * Sistema de envío de una noticia por mail a un amigo
+     * Formato de impresión de los contenidos
+     * Mapa del sitio
+   * Dentro de las funcionalidades de mayor complejidad, pero a las que todo sitio debería aspirar, se cuenta:
+     * Buscador interno del sitio web
+     * Área de acceso privado para usuarios registrados
+     * Sistema de envío de boletines de noticias del sitio a usuarios registrados
 8. ¿Al definir la estructura de un sitio, ¿cuáles son los dos aspectos fundamentales que se deben considerar?
+   <!-- FIXME corregir, no responde a la pregunta
+   Los dos aspectos fundamentales que se deben considerar son:
+   * **Estructura:** se refiere a la forma que tendrá el sitio web en términos generales con sus secciones, funcionalidades y sistemas de navegación. No considera ni incluye elementos gráficos (logotipos, viñetas, etc.).
+   * **Diseño:** se refiere a la solución gráfica que se creará para el sitio, en la cual aparecen colores, logotipos, viñetas, y otros elementos de diseño que permiten identificar visualmente al sitio. -->
 9. ¿Cuál es la diferencia entre estructura y diseño de un sitio web?
+
+   <!-- TODO refinar y detallar -->
+   La diferencia es que la estructura se refiere a la forma en términos generales, mientras que el diseño se refiere al apartado gráfico (colores, logotipos, viñetas).
 10. ¿Cuáles son las características que debe tener el sistema de navegación? Explicar c/u.
+
+   Las características que debe tener el sistema de navegación son:
+   * **Consistente:** el sistema debe ser similar en todo el sitio, en lo referido a su ubicación y disposición en las páginas. Esto se aplica también a aquellas organizaciones que pueden tener más de un sitio web.
+   * **Uniforme:** el sistema debe utilizar similares términos con el fin de que el usuario que lo vea en las páginas, confíe en que sus opciones llevan siempre hacia los mismos lugares dentro del sitio.
+   * **Visible:** el sistema debe distinguirse claramente dentro del sitio, con el fin de que el usuario cuente con él, como si se tratara de una guía permanente en el área en que se encuentre del sitio.
+
 11. ¿Cuáles son los elementos más importantes de un sistema de navegación?
+
+    Los elementos más importantes de un sistema de navegación son:
+    * **Menú General:** siempre presente en todo el sitio, permite el acceso a cada una de las áreas del sitio.
+    * **Pié de Página:** usualmente ubicado en la parte inferior de cada página, indica el nombre de la organización, teléfonos, dirección física y de correo electrónico.
+    * **Barra Corporativa:** ofrece diversas opciones de información respecto del sitio y tal como el anterior, se muestra en todas las páginas.
+    * **Ruta de Acceso:** listado que aparece en la parte superior de cada página y que muestra el trazado de páginas que hay entre la portada del sitio hasta la página actual que se esté revisando; cada una de ellas debe tener un enlace, para acceder al área de la cual depende la página. Cada uno de los elementos que conforman este «camino» debe tener un enlace que permita el acceso a esas áreas. En la literatura internacional en inglés sobre este tema, se llama a este elemento como «breadcrumbs».
+    * **Fecha de publicación:** para saber la vigencia de publicación del contenido desplegado.
+    * **Botón Home:** para ir a la portada
+    * **Botón Mapa del sitio:** para ver el mapa del sitio web
+    * **Botón Contacto:** para enviar un mensaje al encargado del sitio (o, de existir, a la Oficina de Información, Reclamos y Sugerencias).
+    * **Buscador:** presente en cada página si es que la funcionalidad existe en el sitio.
+    * **Botón Ayuda:** para recibir ayuda sobre qué hacer en cada pantalla del sitio.
+    * **Botón Imprimir:** para imprimir el contenido de la página; se espera que el formato de impresión del documento que se muestra en pantalla sea más simple que la página normal del sitio web, para dar la impresión al usuario de que hay una preocupación por ayudarle en la tarea de llevar impreso el contenido.
 12. ¿Cuáles son las cuatro etapas sucesivas que se deben realizar para definir el diseño visual de un sitio web y en qué consiste cada una?
 13. ¿Cuáles son los sistemas que puede utilizar un sitio web para recibir feedback o retroalimentación de parte del usuario?
 14. ¿En qué consiste la Prueba de verificación de Contenidos?
