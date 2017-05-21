@@ -108,9 +108,9 @@
       La idea es que en esta etapa se trabaje en software gráfico para facilitar el proceso de corrección, ya que habitualmente habrá mucha interacción con los usuarios.
 
       Los elementos que se deben tener presentes en esta etapa, son los siguientes:
-      * **Imagen Corporativa de la organización:** se deben seguir los lineamientos de uso de colores, textos y otros elementos definidos para la entidad.
-      * **Criterios de Usabilidad:** se deben tener en cuenta los criterios que... TODO completar
-      * **Criterios de Accesibilidad:** se deben tener en cuenta los criterios que... TODO completar
+      * **Imagen Corporativa de la organización:** se deben seguir los lineamientos de uso de colores, textos y otros elementos definidos para la organización.
+      * **Criterios de Usabilidad:** se deben tener en cuenta los criterios determinados por estándares internacionales, por la literatura disponible con respecto al tema, entre otros.
+      * **Criterios de Accesibilidad:** se deben tener en cuenta los criterios de las normas de accesibilidad que se han recomendado como estándares internacionales.
     * **Borradores de Página**
 
       Una vez que se ha aprobado la etapa anterior, se toman los bocetos de diseño que hayan sido aprobados y se genera un prototipo (páginas «clickeables») mediante el cual se pueda comprobar directamente la forma en que se desempeñan, cuando se les aplica la tecnología HTML de construcción de páginas web.
