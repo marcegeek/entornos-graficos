@@ -88,6 +88,44 @@
     * **Botón Ayuda:** para recibir ayuda sobre qué hacer en cada pantalla del sitio.
     * **Botón Imprimir:** para imprimir el contenido de la página; se espera que el formato de impresión del documento que se muestra en pantalla sea más simple que la página normal del sitio web, para dar la impresión al usuario de que hay una preocupación por ayudarle en la tarea de llevar impreso el contenido.
 12. ¿Cuáles son las cuatro etapas sucesivas que se deben realizar para definir el diseño visual de un sitio web y en qué consiste cada una?
+
+    Las cuatro etapas sucesivas que se deben realizar para definir el diseño visual de un sitio web son:
+    * **Diseño de las Estructuras de Páginas**
+
+      Esta etapa considera la generación de dibujos sólo lineales que describen los componentes de cada una de las pantallas del sitio, con el objetivo de verificar la ubicación de cada uno de ellos.
+
+      El ideal es que se dibujen diagramas con todas las pantallas que tendrá el sitio, ya que de esta manera será posible que diseñadores y desarrolladores tengan un documento concreto de trabajo, a través del cual resuelvan todas las dudas de los elementos que componen esta página. Si bien este trabajo es largo y puede resultar tedioso, su ventaja es que ningún elemento en las páginas queda puesto al azar sino que responde a necesidades puntuales que se han detectado y que se resuelven por esta vía.
+
+      Nuevamente, tal como se planteó cuando se estaba presentando el tema de Estructura en las páginas anteriores, lo ideal es que estos dibujos no tengan ningún elemento gráfico o visual concreto, sino que sólo incluyan líneas y bloques que representen objetos de contenido (como logos, viñetas o fotos). Nuevamente, como en ese caso, el uso de estas imágenes ayudará a que la discusión sobre cada pantalla se centre en la funcionalidad y no en temas más subjetivos como colores o calidad de los elementos de diseño en la página.
+
+      Un elemento que se debe considerar junto con estos dibujos de estructura, es que en las pantallas que representen transacciones, se debe incluir un diagrama de flujo sencillo, mediante el cual se ejemplifique cuáles son las interacciones posibles y sus resultados. Naturalmente se deberá incluir las pantallas correspondientes cuando sea adecuado. Gracias a estos diagramas en combinación con las páginas, tanto diseñadores como desarrolladores podrán tener claro cuál es el trabajo que deben realizar en cada una de las áreas del sitio que se estén generando.
+    * **Bocetos de Diseño**
+
+      Esta etapa consiste en la generación de dibujos digitales acabados de la forma que tendrán las páginas principales del sitio que se desarrolla, considerando como tales la Portada, Portada de Sección y Página de despliegue de contenidos.
+
+      Para desarrollar los elementos gráficos se utilizan como insumos los dibujos de estructura que se han generado en la etapa anterior.
+
+      La idea es que en esta etapa se trabaje en software gráfico para facilitar el proceso de corrección, ya que habitualmente habrá mucha interacción con los usuarios.
+
+      Los elementos que se deben tener presentes en esta etapa, son los siguientes:
+      * **Imagen Corporativa de la organización:** se deben seguir los lineamientos de uso de colores, textos y otros elementos definidos para la entidad.
+      * **Criterios de Usabilidad:** se deben tener en cuenta los criterios que... TODO completar
+      * **Criterios de Accesibilidad:** se deben tener en cuenta los criterios que... TODO completar
+    * **Borradores de Página**
+
+      Una vez que se ha aprobado la etapa anterior, se toman los bocetos de diseño que hayan sido aprobados y se genera un prototipo (páginas «clickeables») mediante el cual se pueda comprobar directamente la forma en que se desempeñan, cuando se les aplica la tecnología HTML de construcción de páginas web.
+
+      La intención de esta etapa es «usar» el diseño de pantalla que se ha creado, contando con enlaces reales que permitan ver la forma de usar sus atributos (cada enlace tiene los estados de Enlace, Flotante, Activo y Visitado) y revisar la forma en que se despliegan las páginas que se van a desarrollar.
+
+      Adicionalmente, en esta etapa será posible hacer la comprobación efectiva del peso de las páginas una vez construidas y se podrán optimizar los elementos que queden fuera de norma por peso o tamaño.
+    * **Maqueta Web**
+
+      Es la etapa final y consiste en generar todo el sitio en tecnología HTML utilizando imágenes y contenidos reales.
+
+      En el caso de un sitio estático, esta etapa corresponderá a la construcción del sitio. En el caso de un sitio dinámico, las páginas que se generen permitirán que el diseñador genere las plantillas de trabajo y el desarrollador de software las utilice como elementos para introducir la programación que sea necesaria para la creación del sitio.
+
+      Es importante considerar que todas las tareas y actividades incluidas en esta etapa pueden ser abordadas por un diseñador que tenga experiencia en diseño web. Esto debe ser parte de los requerimientos solicitados a las empresas proveedoras de este tipo de servicios.
+
 13. ¿Cuáles son los sistemas que puede utilizar un sitio web para recibir feedback o retroalimentación de parte del usuario?
 14. ¿En qué consiste la Prueba de verificación de Contenidos?
 15. ¿En qué consiste la Prueba de Verificaciones de Interfaces?
