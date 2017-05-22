@@ -189,6 +189,39 @@
 
 ## Guía web V2.0 – Cap. 3
 1. ¿Qué es una interfaz y cuáles son sus elementos fundamentales?
+
+   Una interfaz es el conjunto de elementos de la pantalla que permiten al usuario realizar acciones sobre el sitio web que está visitando. Por lo mismo, se considera parte de la interfaz a sus elementos de identificación, de navegación, de contenidos y de acción.
+
+   Todos ellos deben estar preparados para ofrecer servicios determinados al usuario, con el fin de que éste obtenga lo que vino a buscar cuando visitó el sitio web. Por lo anterior, cada uno de los elementos que sean integrados dentro de la interfaz debe estar pensado para causar un efecto sobre el usuario y deben ser utilizados con un propósito.
+   <!--
+   En este sentido, es importante considerar que uno de los autores más citados, Jakob Nielsen, en cuanto a la usabilidad de los Sitios Web, destaca que los elementos más importantes de la portada de todo sitio web se pueden resumir en cuatro postulados generales:
+   1. Dejar claro el propósito del sitio: se refiere a que el sitio debe explicar a quién pertenece y qué permite hacer a quienes lo visitan; se entiende que debe hacerlo de manera simple y rápida. Por ejemplo, ayuda en este sentido el cumplimiento de las normas referidas a uso de URLs y logotipos oficiales.
+   2. Ayudar a los usuarios a encontrar lo que necesitan: implica que debe contar con un sistema de navegación visible y completo, pero que además deberá estar complementado por algún sistema de búsqueda que sea efectivo para acceder al contenido al que no se logra acceder o que no se encuentra a simple vista.
+   3. Demostrar el contenido del sitio: significa que el contenido se debe mostrar de manera clara, con títulos comprensibles por parte del usuario y con enlaces hacia las secciones más usadas que estén disponibles donde el usuario los busque. Ayudará en este sentido tener un seguimiento de las visitas para comprender qué es lo más visto y lo más buscado del sitio web.
+   4. Usar diseño visual para mejorar y no para definir la interacción del sitio web: se refiere a que los elementos gráficos del sitio web deben estar preparados para ayudar en los objetivos del sitio y no sólo como adornos utilizados para rellenar espacio. Aunque se trata de uno de los temas más debatibles, su alcance no es el de restringir el uso de imágenes y elementos graficos, sino a que su uso sea adecuado para la experiencia de uso que se desea ofrecer.
+
+   Como se puede apreciar, el foco central de una interfaz es permitir que el usuario que llega como visitante logre los objetivos que lo trajeron al Sitio Web y que ésta le facilite el acceso a los contenidos que están incorporados a través de sus pantallas.
+
+   Para conseguir esto, es necesario que la interfaz adopte los elementos, que detallamos en este capítulo, a través de los cuales será posible conseguir el cumplimiento de los postulados antes señalados.
+
+   Elementos de la interfaz
+
+   La interfaz del sitio web, cualquiera sea el objetivo que persiga, debe dar cuenta de normas de carácter general, que se refieren a sus características como sistema de información y comunicación. Gracias al cumplimiento de éstas, el usuario logrará acceder a las informaciones que se le ofrecen y, además, podrá realizar las acciones que el organismo dueño del espacio digital le entrega a través de este sistema.
+
+   Dichas características tienen que ver con los elementos de identificación, de navegación, de contenidos y de acción que el sitio web debe contener, todos los cuales se analizan en las siguientes páginas.
+
+   La existencia e importancia de dichos elementos, como asimismo la ubicación que deben tener en la interfaz, se ha visto comprobada a través de las investigaciones que se han hecho en torno a los sitios web. Con ellas se demuestra que las zonas que normalmente se ven en una visita inicial, están conformadas por una letra F o bien por un triángulo, cuya sección más revisada es la que se encuentra en la esquina superior izquierda.
+
+   Por lo anterior, es importante que las interfaces se construyan tomando en cuenta esta evidencia, con el fin de asegurar que los visitantes reciban la información en cuanto lleguen al sitio web, permitiendo que el diseño web contribuya al mejor uso de los contenidos y funcionalidad, en lugar de afectar dicho uso.
+
+   Respecto de los elementos de la interfaz, los aspectos más relevantes a tener en consideración son los siguientes:
+   * Uso de logotipo
+   * Sistema de navegación
+   * Áreas de contenidos
+   * Áreas de interacción
+   * Experiencia de usuario
+   -->
+
 2. ¿Qué es un sistema de navegación y cuáles deben ser sus elementos indispensables?
 3. ¿Qué es Flash y qué problemas puede acarrear su uso?
 4. ¿Qué es AJAX y qué problemas puede acarrear su uso?
