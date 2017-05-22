@@ -4,7 +4,8 @@
 1. ¿A qué nos referimos al hablar de Arquitectura de la Información y cuáles son los ítems principales que constituyen su metodología?
 
    Al hablar de arquitectura de la información nos referimos al conjunto de métodos y herramientas que permiten organizar los contenidos, para ser encontrados y utilizados por los usuarios, de manera simple y directa. De esta manera los usuarios pueden reconocer fácilmente a quién pertenece el sitio web; lo pueden entender en forma rápida y sin esfuerzo y encontrar la información ofrecida fácilmente. Adicionalmente eso entregará el beneficio de que quienes producen el sitio podrán ubicar la nueva información sin tener que crear nuevas estructuras y al mismo tiempo tendrán la libertad de incorporar nuevas iniciativas al sitio sin tener que partir de cero.
-   * Los ítems principales que constituyen su metodología son:
+
+   Los ítems principales que constituyen su metodología son:
      * Definición de Objetivos del Sitio
      * Definición de Audiencia
      * Definición de Contenidos del Sitio
