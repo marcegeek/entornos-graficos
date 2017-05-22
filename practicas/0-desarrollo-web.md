@@ -59,14 +59,17 @@
      * Área de acceso privado para usuarios registrados
      * Sistema de envío de boletines de noticias del sitio a usuarios registrados
 8. ¿Al definir la estructura de un sitio, ¿cuáles son los dos aspectos fundamentales que se deben considerar?
-   <!-- FIXME corregir, no responde a la pregunta
+
    Los dos aspectos fundamentales que se deben considerar son:
-   * **Estructura:** se refiere a la forma que tendrá el sitio web en términos generales con sus secciones, funcionalidades y sistemas de navegación. No considera ni incluye elementos gráficos (logotipos, viñetas, etc.).
-   * **Diseño:** se refiere a la solución gráfica que se creará para el sitio, en la cual aparecen colores, logotipos, viñetas, y otros elementos de diseño que permiten identificar visualmente al sitio. -->
+   * **Árbol de contenidos:** secciones que tendrá el sitio en desarrollo y niveles dentro de cada una. Se debe evitar que el árbol de contenidos represente la estructura de la organización, porque si un usuario externo hace una búsqueda en una estructura de contenidos basada en la forma en que funciona la organización, primero deberá comprender cómo funciona la misma para luego encontrar lo que le interesa. Puede ser de 2 tipos:
+     * **Árbol Organizacional:** agrupa los contenidos de la manera como se organiza la organización, pero no basado en su estructura de funcionamiento, sino en su lógica de actividad.
+     * **Árbol Funcional:** agrupa los contenidos de acuerdo a las tareas que se puedan realizar dentro del sitio.
 9. ¿Cuál es la diferencia entre estructura y diseño de un sitio web?
 
-   <!-- TODO refinar y detallar -->
+   <!-- TODO refinar y acomodar -->
    La diferencia es que la estructura se refiere a la forma en términos generales, mientras que el diseño se refiere al apartado gráfico (colores, logotipos, viñetas).
+   * **Estructura:** se refiere a la forma que tendrá el sitio web en términos generales con sus secciones, funcionalidades y sistemas de navegación. No considera ni incluye elementos gráficos (logotipos, viñetas, etc.).
+   * **Diseño:** se refiere a la solución gráfica que se creará para el sitio, en la cual aparecen colores, logotipos, viñetas, y otros elementos de diseño que permiten identificar visualmente al sitio.
 10. ¿Cuáles son las características que debe tener el sistema de navegación? Explicar c/u.
 
     Las características que debe tener el sistema de navegación son:
