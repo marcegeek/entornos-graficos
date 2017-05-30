@@ -227,5 +227,27 @@
    -->
 
 2. ¿Qué es un sistema de navegación y cuáles deben ser sus elementos indispensables?
+
+   Se denomina "sistema de navegación" al conjunto de elementos presente en cada una de las pantallas, que permite a un usuario moverse por las diferentes secciones de un sitio web y retornar hasta la portada, sin sentir la sensación de haberse perdido en ese camino.
+
+   Sus elementos indispensables deben ser:
+   * **Menú de secciones:** es una zona de la interfaz en la que se detallan las secciones o categorías en las que está dividida la información contenida en el sitio web. Normalmente se ubica en la parte superior de cada página o bien en la zona superior derecha o izquierda. Hasta la aparición de los últimos estudios basados en "eyetracking" (sistema de comprobación de usabilidad que permite identificar qué está mirando un usuario enuna pantalla) no había una recomendación certera acerca de su ubicación; tras éstos, parece indicado ubicarlos en la zona superior o en la zona superior izquierda. Se debe evitar el uso de nombres complejos y preferir palabras de fácil y rápida comprensión.
+   * **Menú de rastros:** es el menú que indica mediante los nombres de cada sección o categoría del menú, la distancia que separa a la página actual de la portada. Por ejemplo, si el usuario está revisando la página del "Programa A", el menú correspondiente debe indicar Portada > Programas > "Programa A". Este menú debe ir siempre debajo de la Identificación de la sección o categoría y sobre el título.
+   * **Identificación de secciones:** debe estar en la zona superior de la página, de manera cercana la zona donde se encuentra el logotipo que se haya elegido para identificar al sitio web. Puede ser gráfico y por lo mismo tener alguna imagen alusiva a la sección o categoría o bien ser una solución que incorpore sólo texto y color. Sí debe tener en forma destacada el nombre de la sección o categoría y por lo mismo, debe aparecer en todas las pantallas que pertenezcan a dicha ésta. En términos de tamaño, su ancho debe ser el de la zona de contenido y su alto, no menor a 100 pixeles (aproximado) para una adecuada visualización. Si usa colores, recuerde que deben tener contraste adecuado para ser usados por personas con problemas de visión disminuida.
+   * **Enlaces de acción:** son aquellos elementos que permiten realizar acciones directas relativas a la navegación y que se muestran como parte de ésta, tales como los correspondientes a "Regreso a la Portada", "Contacto", "Envío de Mail al Sitio" y "Mapa del Sitio".
+   * **Pie de página:** aunque regularmente no se le concede importancia en términos de navegación, se entiende que la zona inferior de cada pantalla cumple el relevante papel de completar su la información que se ofrece en las zonas superiores de navegación, al entregar datos relativos a la organización (nombre, direcciones, teléfonos), política de privacidad y repetir enlaces que se han entregado en la zona superior, para facilitar el contacto del usuario con el sitio.
 3. ¿Qué es Flash y qué problemas puede acarrear su uso?
+
+   Flash es una tecnología propietaria de la empresa Adobe que tiene como objetivo ofrecer interactividad en un entorno gráfico mejorado. Debido a que tiene herramientas para hacer un uso especializado de sonidos, imágenes y video, es el entorno más utilizado cuando se desea ofrecer información de este tipo.
+
+   Uno de los problemas que puede acarrear su uso es que, en la portada del sitio web, su uso recarga la presentación del sitio y si la presentación no está bien hecha, puede impedir el acceso de los robots de búsqueda al interior del mismo. Aunque con las sucesivas versiones de esta tecnología, se ha avanzado en la especificación de su accesibilidad, existiendo variados ejemplos para ofrecer formas de acceso paralelas. Adicionalmente la propia empresa ha ofrecido guías para hacer accesibles las aplicaciones hechas con Flash (desde la versión Flash MX 2004 en adelante) que permiten ofrecer alternativas no gráficas para sus pantallas gráficas.
+
 4. ¿Qué es AJAX y qué problemas puede acarrear su uso?
+
+   AJAX es una combinación de tecnologías que se basa en el lenguaje Javascript para ofrecer una experiencia de intercambio dinámico de información en sitios web, enriqueciendo la experiencia de revisar datos y conseguir resultados de manera rápida y confiable.
+
+   AJAX en sí no es una tecnología, sino que una implementación de varias tecnologías ya existentes tales como XHTML y CSS para mostrar páginas web; Document Object Model (DOM) para mostrar e interactuar dinámicamente con la información presentada; el objeto XMLHTTPRequest que permite realizar peticiones HTTP y HTTPS a servidores WEB de manera asíncrona y XML para intercambio de información entre el browser del usuario y el servidor que contiene la información.
+
+   Uno de los problemas que puede acarrear su uso es que, al basarse en un lenguaje de scripting como Javascript, el cual se puede usar con fines maliciosos, muchas veces puede ocurrir que éste se encuentre deshabilitado en el browser utilizado. En este caso, la aplicación que utilice AJAX también quedará desactivada.
+
+   En este sentido se sugiere que desde la programación de la aplicación se haga este tipo de detección con el objetivo de ofrecer una interfaz distinta en dicho caso y, gracias a eso, entregar otra forma de interactuar con la pantalla que permita utilizar la aplicación que se ofrece.
