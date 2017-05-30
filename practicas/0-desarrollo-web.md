@@ -17,7 +17,7 @@
    La ventaja es que al tener identificados y definidos los objetivos del sitio, el equipo tendrá claro el horizonte que debe tener el proyecto. También, se puede establecer un orden de prioridades, que permita atender los objetivos más críticos primero. Además, se puede lograr que los mismos estén en concordancia con las necesidades y planes de la organización. Finalmente, de éstos se pueden desprender tareas concretas que permitan avanzar en el cumplimiento de los mismos.
 3. ¿Qué es la audiencia?
 
-   La audiencia es el público al que atenderá el sitio web. Se deben definir qué tipos de audiencia se atenderán, éstos se pueden definir según distintas características, las cuáles se presentarán en el siguiente punto.
+   La audiencia es el público al que atenderá el sitio web. Se deben definir qué tipos de audiencia se atenderán para comenzar a tomar decisiones respecto de la forma de navegación, servicios interactivos previstos y los tipos de contenidos que se buscarán en el sitio. La audiencia se puede definir según distintas características, las cuáles se presentarán en el siguiente punto.
 4. ¿Según qué tipos de características se deben analizar las audiencias?
 
    Las audiencias se deben analizar según las siguientes características:
@@ -64,10 +64,11 @@
    * **Árbol de contenidos:** secciones que tendrá el sitio en desarrollo y niveles dentro de cada una. Se debe evitar que el árbol de contenidos represente la estructura de la organización, porque si un usuario externo hace una búsqueda en una estructura de contenidos basada en la forma en que funciona la organización, primero deberá comprender cómo funciona la misma para luego encontrar lo que le interesa. Puede ser de 2 tipos:
      * **Árbol Organizacional:** agrupa los contenidos de la manera como se organiza la organización, pero no basado en su estructura de funcionamiento, sino en su lógica de actividad.
      * **Árbol Funcional:** agrupa los contenidos de acuerdo a las tareas que se puedan realizar dentro del sitio.
+   * **Sistemas de Navegación:** sistemas de acceso a los contenidos del Sitio Web. Es de suma importancia que todas las páginas del sitio cuenten con el sistema de navegación.
+
 9. ¿Cuál es la diferencia entre estructura y diseño de un sitio web?
 
-   <!-- TODO refinar y acomodar -->
-   La diferencia es que la estructura se refiere a la forma en términos generales, mientras que el diseño se refiere al apartado gráfico (colores, logotipos, viñetas).
+   La diferencia entre estructura y diseño es:
    * **Estructura:** se refiere a la forma que tendrá el sitio web en términos generales con sus secciones, funcionalidades y sistemas de navegación. No considera ni incluye elementos gráficos (logotipos, viñetas, etc.).
    * **Diseño:** se refiere a la solución gráfica que se creará para el sitio, en la cual aparecen colores, logotipos, viñetas, y otros elementos de diseño que permiten identificar visualmente al sitio.
 10. ¿Cuáles son las características que debe tener el sistema de navegación? Explicar c/u.
