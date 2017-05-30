@@ -1,6 +1,6 @@
 # Práctica 0 - Desarrollo Web
 
-## Guía web V1.0 – Cap. 2 y 4
+## Guía Web v1.0 – Cap. 2 y 4
 1. ¿A qué nos referimos al hablar de Arquitectura de la Información y cuáles son los ítems principales que constituyen su metodología?
 
    Al hablar de arquitectura de la información nos referimos al conjunto de métodos y herramientas que permiten organizar los contenidos, para ser encontrados y utilizados por los usuarios, de manera simple y directa. De esta manera los usuarios pueden reconocer fácilmente a quién pertenece el sitio web; lo pueden entender en forma rápida y sin esfuerzo y encontrar la información ofrecida fácilmente. Adicionalmente eso entregará el beneficio de que quienes producen el sitio podrán ubicar la nueva información sin tener que crear nuevas estructuras y al mismo tiempo tendrán la libertad de incorporar nuevas iniciativas al sitio sin tener que partir de cero.
@@ -186,7 +186,9 @@
     * **Sistemas de Compra:** si se cuenta con sistemas de pago en línea, se debe revisar cuidadosamente el flujo de trabajo de la aplicación y asegurarse de que en cada uno de los pasos se está asegurando la calidad y seguridad de la transacción.
     * **Administración del Error 404:** cuando se ingresa una dirección equivocada, el software del servidor web muestra una pantalla de error anunciando el número de código del problema (Error 404). No obstante, dicho software puede ser configurado para que muestre una página diferente, en la que se explique a los usuarios las probables razones del error. Es importante incluir, en dicha página, un enlace al Mapa del Sitio y un Buscador, de tal manera que el usuario tenga más herramientas para resolver la inexistencia del contenido que buscaba. Se recomienda, además, que el Administrador de Sistemas de la organización entregue un reporte semanal basado en los logs del servidor, que permita ver qué es lo que más buscan los usuarios y de qué manera el sitio web les está respondiendo sus consultas.
 
-## Guía web V2.0 – Cap. 3
+<div class="page-break"></div>
+
+## Guía Web v2.0 – Cap. 3
 1. ¿Qué es una interfaz y cuáles son sus elementos fundamentales?
 
    Una interfaz es el conjunto de elementos de la pantalla que permiten al usuario realizar acciones sobre el sitio web que está visitando. Por lo mismo, se considera parte de la interfaz a sus elementos de identificación, de navegación, de contenidos y de acción.
