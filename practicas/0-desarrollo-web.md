@@ -186,7 +186,7 @@
     * **Sistemas de Compra:** si se cuenta con sistemas de pago en línea, se debe revisar cuidadosamente el flujo de trabajo de la aplicación y asegurarse de que en cada uno de los pasos se está asegurando la calidad y seguridad de la transacción.
     * **Administración del Error 404:** cuando se ingresa una dirección equivocada, el software del servidor web muestra una pantalla de error anunciando el número de código del problema (Error 404). No obstante, dicho software puede ser configurado para que muestre una página diferente, en la que se explique a los usuarios las probables razones del error. Es importante incluir, en dicha página, un enlace al Mapa del Sitio y un Buscador, de tal manera que el usuario tenga más herramientas para resolver la inexistencia del contenido que buscaba. Se recomienda, además, que el Administrador de Sistemas de la organización entregue un reporte semanal basado en los logs del servidor, que permita ver qué es lo que más buscan los usuarios y de qué manera el sitio web les está respondiendo sus consultas.
 
-<div class="page-break"></div>
+<div style="page-break-after: always;"></div>
 
 ## Guía Web v2.0 – Cap. 3
 1. ¿Qué es una interfaz y cuáles son sus elementos fundamentales?
