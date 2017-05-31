@@ -1,4 +1,4 @@
-# Práctica 1
+# Práctica 1 - PHP
 
 ## Ejercicio 1
 En el siguiente código identificar:
