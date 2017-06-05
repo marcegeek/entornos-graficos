@@ -82,77 +82,77 @@
      <tr><td rowspan="8">Aspectos Generales</td></tr>
      <tr>
        <td>¿Cumple el sitio con sus objetivos?¿Está diseñado para darle a los usuarios lo que ellos quieren?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Es eficiente?</td>
-       <td>X</td>
+       <td>A</td>
      </tr>
      <tr>
        <td>¿Es intuitivo?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Mantiene una consistencia tanto en su funcionamiento como en su apariencia?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Facilita que el usuario se sienta cómodo y con el control del sitio?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Aparece la navegación en un lugar prominente, donde se vea fácilmente?</td>
-       <td>X</td>
+       <td>A</td>
      </tr>
      <tr>
        <td>¿Los enlaces que son imágenes tienen su atributo ALT escrito?</td>
-       <td>X</td>
+       <td>A</td>
      </tr>
      <tr><td rowspan="7">Navegación</td></tr>
      <tr>
        <td>Si ha usado JavaScript para la navegación ¿ha preparado también una navegación en modo texto?</td>
-       <td>X</td>
+       <td>A</td>
      </tr>
      <tr>
        <td>¿Existen enlaces rotos o que no conducen a ningún sitio?</td>
-       <td>X</td>
+       <td>U</td>
      <tr>
        <td>¿Tiene el sitio un site map o un buscador para quienes quieren acceder directamente a los contenidos sin tener que navegar?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Se mantiene una navegación consistente y coherente a lo largo del site?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Existen elementos que permitan al usuario saber exactamente dónde se encuentra dentro del site y cómo volver atrás (como “migas de pan”)?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Indican los enlaces claramente hacia dónde apuntan? ¿Está claro lo que el usuario encontrará detrás de cada uno?</td>
-       <td>X</td>
+       <td>A</td>
      </tr>
      <tr><td rowspan="2">Animaciones</td></tr>
      <tr>
        <td>Evite las animaciones cíclicas (i.e. gif animados que se repiten hasta el cansancio), a menos que cumplan con un propósito claro. Use animaciones Flash sólo si es absolutamente necesario</td>
-       <td>X</td>
+       <td>A</td>
      </tr>
      <tr><td rowspan="3">Tecnología</td></tr>
      <tr>
        <td>¿La tecnología utilizada en el site es compatible con el software y hardware de los usuarios objetivos? ¿No tendrán que descargar elementos como plug-ins para poder usarlo?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>Si es importante utilizar recursos técnicos que requieran la descarga de plug-ins, ¿se le informa al usuario de esta situación y se le explica la importancia de hacerlo?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr><td rowspan="3">Feedback</td></tr>
      <tr>
        <td>¿Se han previsto respuestas del sistema frente a interacciones del usuario?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Puede el usuario ponerse en contacto para hacer sugerencias o comentarios?</td>
-       <td>X</td>
+       <td>U</td>
      </tr>
    </table>
