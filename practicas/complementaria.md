@@ -86,7 +86,7 @@
      </tr>
      <tr>
        <td>¿Es eficiente?</td>
-       <td>A</td>
+       <td>U</td>
      </tr>
      <tr>
        <td>¿Es intuitivo?</td>
